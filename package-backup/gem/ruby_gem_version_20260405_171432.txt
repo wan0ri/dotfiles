@@ -1,0 +1,11 @@
+Ruby version:
+ruby 3.3.11 (2026-03-26 revision 1f2d15125a) [arm64-darwin24]
+
+gem version:
+4.0.9
+
+Ruby path:
+/opt/homebrew/bin/ruby
+
+gem path:
+/opt/homebrew/bin/gem
