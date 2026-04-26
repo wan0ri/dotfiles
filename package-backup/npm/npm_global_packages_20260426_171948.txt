@@ -1,0 +1,4 @@
+/opt/homebrew/lib
+├── corepack@0.34.6
+└── npm@10.9.7
+
