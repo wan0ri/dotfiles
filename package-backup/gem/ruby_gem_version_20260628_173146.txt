@@ -1,0 +1,11 @@
+Ruby version:
+ruby 3.4.9 (2026-03-11 revision 76cca827ab) +PRISM [arm64-darwin25]
+
+gem version:
+4.0.14
+
+Ruby path:
+/opt/homebrew/bin/ruby
+
+gem path:
+/opt/homebrew/bin/gem
