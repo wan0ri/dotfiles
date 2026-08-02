@@ -1,1 +1,1 @@
-python_pip_version_20260726_180512.txt
+python_pip_version_20260802_180326.txt

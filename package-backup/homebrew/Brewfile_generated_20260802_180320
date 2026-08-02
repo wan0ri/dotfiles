@@ -1,0 +1,106 @@
+tap "aws/tap"
+tap "azure/bicep", trusted: true
+tap "hashicorp/tap"
+tap "homebrew/cask"
+tap "homebrew/core"
+# Zstandard is a real-time compression algorithm
+brew "zstd"
+# Java build tool
+brew "ant"
+# Cryptography and SSL/TLS Toolkit
+brew "openssl@3"
+# Download with resuming and segmented downloading
+brew "aria2"
+# Interpreted, interactive, object-oriented programming language
+brew "python@3.14"
+# CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
+brew "aws-sam-cli"
+# NaCl networking and cryptography library
+brew "libsodium"
+# Microsoft Azure CLI 2.0
+brew "azure-cli"
+# User-friendly launcher for Bazel
+brew "bazelisk"
+# Decentralized dependency manager for Cocoa
+brew "carthage"
+# Cross-platform make
+brew "cmake"
+# Get a file from an HTTP, HTTPS or FTP server
+brew "curl"
+# GNU multiple precision arithmetic library
+brew "gmp"
+# GNU compiler collection
+brew "gcc@13"
+# GNU compiler collection
+brew "gcc@14"
+# GNU compiler collection
+brew "gcc@15"
+# WebDriver <-> Marionette proxy
+brew "geckodriver"
+# GitHub command-line tool
+brew "gh"
+# Distributed revision control system
+brew "git"
+# Git extension for versioning large files
+brew "git-lfs"
+# GNU version of the tar archiving utility
+brew "gnu-tar"
+# GNU Privacy Guard (OpenPGP)
+brew "gnupg"
+# Open-source build automation tool based on the Groovy and Kotlin DSL
+brew "gradle"
+# Lightweight and flexible command-line JSON processor
+brew "jq"
+# Statically typed programming language for the JVM
+brew "kotlin"
+# Postgres C API library
+brew "libpq"
+# Next-gen compiler infrastructure
+brew "llvm@20"
+# Java-based project management
+brew "maven"
+# Small build system for use with gyp or CMake
+brew "ninja"
+# Open-source, cross-platform JavaScript runtime environment
+brew "node@24", link: true
+# 7-Zip (high compression file archiver) implementation
+brew "p7zip"
+# Highly capable, feature-rich programming language
+brew "perl"
+# Execute binaries from Python packages in isolated environments
+brew "pipx"
+# Package compiler and linker metadata toolkit
+brew "pkgconf"
+# Powerful, clean, object-oriented scripting language
+brew "ruby@3.4", link: true
+# Rust toolchain installer
+brew "rustup"
+# Browser automation for testing purposes
+brew "selenium-server"
+# Formatting tool for reformatting Swift code
+brew "swiftformat"
+# Tool Command Language
+brew "tcl-tk@8"
+# Fast Xcode unarchiver
+brew "unxip"
+# Internet file retriever
+brew "wget"
+# Little beautifier tool for xcodebuild
+brew "xcbeautify"
+# Command-line tool to install and switch between multiple versions of Xcode
+brew "xcodes"
+# Process YAML, JSON, XML, CSV and properties documents from the CLI
+brew "yq"
+# Bicep: next generation template language for Azure Resource Manager (ARM)
+brew "azure/bicep/bicep"
+# Packer
+brew "hashicorp/tap/packer", trusted: true
+# Web browser
+cask "firefox"
+# Web browser
+cask "google-chrome"
+# Multi-platform web browser
+cask "microsoft-edge"
+# Plugin for AWS CLI to start and end sessions that connect to managed instances
+cask "session-manager-plugin"
+npm "corepack"
