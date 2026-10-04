@@ -1,1 +1,1 @@
-homebrew_version_20260927_200001.txt
+homebrew_version_20261004_200031.txt
