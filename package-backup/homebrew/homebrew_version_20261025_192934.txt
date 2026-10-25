@@ -1,0 +1,3 @@
+Homebrew 7.0.9
+Homebrew/homebrew-core (git revision d468370ffda; last commit 2026-10-13)
+Homebrew/homebrew-cask (git revision d0cb36ab967; last commit 2026-10-13)
