@@ -1,0 +1,5 @@
+azure-cli
+firefox
+google-chrome
+microsoft-edge
+session-manager-plugin
